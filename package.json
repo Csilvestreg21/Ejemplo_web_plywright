@@ -1,0 +1,25 @@
+{
+    "name": "ejemplo_web_playwright",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"No test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "directories": {
+        "test": "tests"
+    },
+    "keywords": [],
+    "description": "",
+    "devDependencies": {
+        "@cucumber/cucumber": "^11.3.0",
+        "@cucumber/pretty-formatter": "^1.0.1",
+        "@playwright/test": "^1.53.0",
+        "cucumber-html-reporter": "^7.2.0",
+        "playwright": "^1.53.0",
+        "ts-node": "^10.9.2",
+        "tsconfig-paths": "^4.2.0",
+        "typescript": "^5.8.3"
+    }
+}
